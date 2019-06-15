@@ -1,0 +1,21 @@
+body {
+  margin: 25px;
+} 
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+li {
+  width: 200px;
+  padding: 3px 0;
+}
+
+li button {
+  float: right;
+}
+
+.done {
+  text-decoration: line-through;
+}
